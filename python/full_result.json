@@ -24,16 +24,13 @@
       "end" : 6.960000,
       "start" : 6.210000,
       "word" : "yellow"
-    }],
-  "text" : "[unk] red green blue yellow"
-}{
-  "result" : [{
+    }, {
       "conf" : 1.000000,
       "end" : 8.070000,
-      "start" : 7.560000,
+      "start" : 7.500000,
       "word" : "white"
     }],
-  "text" : "white"
+  "text" : "[unk] red green blue yellow white"
 }{
   "result" : [{
       "conf" : 1.000000,
